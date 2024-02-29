@@ -1,0 +1,26 @@
+.btncont button
+{  margin: 10px;
+      
+}
+.container2 *
+{
+    margin: 10px;
+}
+
+.container1
+{
+    text-align: center;
+    background-color: rgb(129, 190, 221);
+    padding: 50px;
+    border-radius:20px ;
+    margin: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+h2{
+    text-decoration: underline;
+    color: rgb(57, 57, 72);
+    font-weight: bolder;
+}
